@@ -1,1 +1,3 @@
 https://www.tiny.cloud/blog/angular-5-tutorial-step-step-guide-first-angular-5-app/
+https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
+https://willianjusten.com.br/falando-sobre-rscss/

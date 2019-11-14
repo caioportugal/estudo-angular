@@ -1,0 +1,40 @@
+.header-bar{
+    width: 100%;
+    background:rgb(187, 34, 51);
+    >.list{
+        list-style: none;
+        width: 90%;
+        margin:auto;
+        >.item{
+            color:#fff;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 1em;
+            text-align: center;
+            padding: 1em 1em;
+            display: inline-block;
+            background: rgba(187, 34, 51,0.8);
+            &.-title:hover{
+                    color:#f1f1f1;
+                    background:rgba(22, 22, 22, 0.5);
+                    cursor: pointer;
+            }
+            &.-content{
+                width: 50%;
+
+            }
+            >.content{
+                width: 100%;
+                padding: 0.5em;
+                border-radius: 5px;
+                background: #f0f0f0;
+                border: none;
+                &:focus{
+                    border-color: transparent;
+                    outline-color: transparent;
+                }
+            }
+            
+        }
+    }
+    
+}
